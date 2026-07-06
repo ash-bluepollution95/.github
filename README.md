@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duskfallcrew" alt="duskfallcrew" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ktiseosnyx_ai" target="blank"><img src="https://img.shields.io/twitter/follow/ktiseosnyx_ai?logo=twitter&style=for-the-badge" alt="ktiseosnyx_ai" /></a> </p>
-
-- 🔭 I’m currently working on [Dataset Tools](https://github.com/Ktiseos-Nyx/Dataset-Tools/tree/main)
+- 🔭 I’m currently working on [Ktiseos Nyx AI Ecosystem](https://github.com/Ktiseos-Nyx/Ktiseos-Nyx-Trainer)
 
 - 🌱 I’m currently learning **Python, Generative AI**
 
-- 👯 I’m looking to collaborate on [Jupyter Lora Trainer](https://github.com/Ktiseos-Nyx/Lora_Easy_Training_Jupyter)
+- 👯 I’m looking to collaborate on [Ktiseos Nyx AI Ecosystem](https://github.com/Ktiseos-Nyx/Ktiseos-Nyx-Trainer)
 
-- 🤝 I’m looking for help with [Dataset Tools](https://github.com/Ktiseos-Nyx/Dataset-Tools/tree/main)
+- 🤝 I’m looking for help with [Ktiseos Nyx AI Ecosystem](https://github.com/Ktiseos-Nyx/Ktiseos-Nyx-Trainer)
 
 - 👨‍💻 A TON of my Gen AI models are at: [https://civitai.com/user/ktiseos_nyx/models](https://civitai.com/user/ktiseos_nyx/models)
 
@@ -21,7 +19,7 @@
 
 - 💬 Ask me about **Things that aren't programming**
 
-- 📫 How to reach me **kieranxsomer@gmail.com**
+- 📫 How to reach me **DISCORD ONLY**
 
 - 📄 Hang out & Not talk about AI [https://discord.gg/5t2kYxt7An](https://discord.gg/5t2kYxt7An)
 
