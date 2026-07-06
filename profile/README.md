@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Ktiseos Nyx Trainer<br><br>🌱 I'm currently learning NextJS<br><br>👯 I'm looking to collaborate on Web Design, UI/UX<br><br>🤝 I'm looking for help with Python and ML Stacks<br><br>💬 Ask me about My Vision for an Accessible AI Ecosystem that ISNT USING GRADIO!<br><br>📫 How to reach me dskypie@proton.me<br><br>⚡ Fun fact **I have dissociative identity disorder, ADHD, Autism and CPTSD. I'm also an elder millennial who can recite random movie quotes. **
+🔭 I'm currently working on Ktiseos Nyx Trainer<br><br>🌱 I'm currently learning NextJS<br><br>👯 I'm looking to collaborate on Web Design, UI/UX<br><br>🤝 I'm looking for help with Python and ML Stacks<br><br>💬 Ask me about My Vision for an Accessible AI Ecosystem that ISNT USING GRADIO!<br><br>📫 How to reach me  DISCORD PLS <br><br>⚡ Fun fact **I have dissociative identity disorder, ADHD, Autism and CPTSD. I'm also an elder millennial who can recite random movie quotes. **
 
 
 ## 🌐 Socials:
