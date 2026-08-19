@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Dataset Tools <br><br>🌱 I'm currently learning NextJS<br><br>👯 I'm looking to collaborate on Web Design, UI/UX<br><br>🤝 I'm looking for help with Node/Next <br><br>💬 Ask me about My hatred for 100% blind trust of AI agentic code. <br><br>📫 How to reach me: Don't. I'm too autistic. <br><br>⚡ Fun fact **I have dissociative identity disorder, ADHD, Autism and CPTSD. I'm also an elder millennial who can recite random movie quotes. PLEASE DO NOT STALK ME ON SOCIAL MEDIA ABOUT ANY OF MY CURRENT OR FORMER REPOSITORIES, I AM NOT INTERSTED IN TALKING ABOUT AI - AM RETIRING FROM 99% OF AI AS OF AUG 2026. **
+🔭 I'm currently working on Dataset Tools <br><br>🌱 I'm currently learning NextJS<br><br>👯 I'm looking to collaborate on Web Design, UI/UX<br><br>🤝 I'm looking for help with Node/Next <br><br>💬 Ask me about My hatred for 100% blind trust of AI agentic code. <br><br>📫 How to reach me: Don't. I'm too autistic. <br><br>⚡ Fun fact <br><br>**I have dissociative identity disorder, ADHD, Autism and CPTSD. I'm also an elder millennial who can recite random movie quotes. PLEASE DO NOT STALK ME ON SOCIAL MEDIA ABOUT ANY OF MY CURRENT OR FORMER REPOSITORIES, I AM NOT INTERSTED IN TALKING ABOUT AI - AM RETIRING FROM 99% OF AI AS OF AUG 2026.**
 
 
 ## 🌐 Socials:
